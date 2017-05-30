@@ -462,7 +462,7 @@ Pilt: [Östrogeen ja progesteroon reguleerivad rinnanäärmeepiteeli jagunemist 
 <!-- - A lot of confusion arises from calling the first part of the cycle the ‘proliferative phase’. This term, however, is based on the changes that occur in the uterus: the endometrium proliferates before ovulation. Post-ovulatory secretion of progesterone has anti-proliferative effects on the endometrium and induces secretory differentiation in the uterine lining. -->
 
 ---
-
+class: smaller
 ## Hormoonide toimemehhanism rakkude jagunemisel
 
 .pull-left[
